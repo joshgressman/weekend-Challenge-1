@@ -1,0 +1,97 @@
+html, body,h1, h2, h3, p, ol, ul, li, a div{
+       padding: 0px;
+       border: 0px;
+       margin: 0px;
+
+      }
+
+header{
+  height:40px;
+  background-color: #2f4f4f;
+  margin: 0 0 10px 0;
+  padding: 15px 0 0 10px;
+  color: white;
+  font-size: 12px
+
+
+}
+#div {
+  background-color:#D0D0D0;
+  margin-top:-10px;
+  border-top: solid;
+  border-color: #20B2AA;
+}
+#employeeinfo{
+  height:300px;
+
+}
+
+form label{
+  display:list-item;
+  padding: 5px 5px 5px 12px;
+  margin: 3px 0 0 0;
+  width:240px;
+
+}
+
+div {
+  border-bottom: solid:
+  border-color: #20B2AA;
+
+}
+
+#container {
+  border-top: solid;
+  border-color: #20B2AA;
+  margin:0 0 10px 0;
+  padding: 5px 0 0 5px;
+
+}
+
+#employeeinfo input {
+  margin: 0 0 5px 10px;
+  /*height: 20px;*/
+  width: 200px;
+}
+
+#submit {
+  background-color:#20b2aa;
+  display:list-item;
+  font-weight: bold;
+}
+
+#monthlysalary {
+  border-top: solid;
+  border-bottom: solid;
+  border-color: #20B2AA;
+  padding: 5px 0 0 5px;
+}
+
+.button {
+  background-color: #20B2AA;
+  float: right;
+}
+
+.person {
+  padding:8px 2px 2px 5px;
+  height:25px;
+  border-style: solid;
+  border-color: #20B2AA;
+  border-width: thin;
+  margin:1px 0 0 1px;
+}
+.button {
+  background-color: red;
+  float: right;
+}
+
+#updatedCost {
+  margin: 10px 0 0 0;
+  padding: 0 0 0 100px;
+  font-weight: bold;
+}
+
+footer {
+  height:400px;
+  background-color:#2f4f4f;
+}
